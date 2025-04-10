@@ -7,10 +7,11 @@ const Result = ({ imc }) => {
 
 const styles = StyleSheet.create({
   result: {
-    marginTop: 20,
+    marginTop: 24,
     fontSize: 24,
     textAlign: 'center',
-    color: '#333',
+    color: '#2C3E50',
+    fontWeight: '300',
   },
 });
 

@@ -6,10 +6,12 @@ const Title = () => {
 
 const styles = StyleSheet.create({
   title: {
-    fontSize: 32,
-    fontWeight: 'bold',
+    fontSize: 28,
+    fontWeight: '300',
     textAlign: 'center',
-    marginBottom: 24,
+    marginBottom: 32,
+    color: '#2C3E50',
+    letterSpacing: 1,
   },
 });
 

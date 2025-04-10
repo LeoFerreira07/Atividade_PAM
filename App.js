@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
   container: {
     flexGrow: 1,
     justifyContent: 'center',
-    padding: 16,
-    backgroundColor: '#fff',
+    padding: 24,
+    backgroundColor: '#FFFFFF',
   },
 });

@@ -21,11 +21,12 @@ const Classification = ({ imc }) => {
 
 const styles = StyleSheet.create({
   classification: {
-    marginTop: 10,
+    marginTop: 8,
     fontSize: 18,
     textAlign: 'center',
-    color: '#444',
-    fontWeight: '500',
+    color: '#16A085', 
+    fontWeight: '400',
+    fontStyle: 'italic',
   },
 });
 
