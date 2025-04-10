@@ -8,7 +8,7 @@ const IdealWeight = ({ min, max }) => {
       <View style={styles.weightRange}>
         <Text style={styles.weightText}>{min} kg</Text>
         <Text style={styles.separator}>a</Text>
-        <Text style={styles.weightText}>{max} kg</Text>
+        <Text style={styles.weightText}>{max} kg</Text> 
       </View>
       <Text style={styles.note}>(IMC entre 18.5 e 24.9)</Text>
     </View>
