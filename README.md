@@ -5,7 +5,7 @@ Este projeto é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida 
 
 ## Estrutura do Projeto
 
-## Clik [`aqui`](https://drive.google.com/file/d/1BU-KLWkKKrxMfOqgVW0xAcagJdbcdrFH/view?usp=drive_link) para o acesso do video:
+## Clique [`aqui`](https://drive.google.com/file/d/1BU-KLWkKKrxMfOqgVW0xAcagJdbcdrFH/view?usp=drive_link) para o acesso do video:
 
 ### 1. `App.js`
 Componente principal do aplicativo. Suas principais responsabilidades são:
