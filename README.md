@@ -2,7 +2,10 @@
 
 Este projeto é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida em React Native. O aplicativo permite que o usuário insira seu peso e altura, e retorna o valor do IMC, sua classificação (como "peso normal", "obesidade grau 1", etc.) e a faixa de peso ideal com base no IMC considerado saudável.
 
+
 ## Estrutura do Projeto
+
+https://github.com/user-attachments/assets/f8460e08-3f90-40a4-a1da-456db15f7972
 
 ### 1. `App.js`
 Componente principal do aplicativo. Suas principais responsabilidades são:
